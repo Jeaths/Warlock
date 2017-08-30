@@ -1,0 +1,9 @@
+-Movimiento de la cámara
+-Colisiones de Objetos
+-Borde del Mapa/Acantilado(Plataformers)
+-Los arboles ya sabe como hacerlos (No importa)
+-Escudo
+-Golpe
+-Dash
+-Comentar Código
+-
